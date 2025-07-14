@@ -12,5 +12,4 @@ public class ContactosApplication {
 
 		SpringApplication.run(ContactosApplication.class, args);
 	}
-
 }
